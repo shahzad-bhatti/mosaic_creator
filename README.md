@@ -2,7 +2,7 @@
 Creates a mosaic from small images
 
 # Compile and Run
-  make photomosaic
+  make photomosaic \\
   ./photomosaic background_image.png [tile_directory/] [number of tiles] [pixels per tile] [output_image.png]
   
   Parameters in [square brackets] are optional. Below are the defaults:
