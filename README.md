@@ -1,7 +1,7 @@
 # mosaic_creator
 Creates a mosaic from small images
 
-Compile and Run
+* Compile and Run
   make photomosaic
   ./photomosaic background_image.png [tile_directory/] [number of tiles] [pixels per tile] [output_image.png]
   
