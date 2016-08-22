@@ -17,7 +17,7 @@ make photomosaic
 
 * pixels per tile: 50
 
-  The width/height of a tile_image in the result mosaic. Don’t make this larger than 75 for the tile_images in /mp_mosaic_pngs
+  The width/height of a tile_image in the result mosaic. Don’t make this larger than 75 for the tile_images in /mosaic_pngs
 
 * output_image: mosaic.png
 
