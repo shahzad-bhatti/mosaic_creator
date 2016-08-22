@@ -12,9 +12,11 @@ make photomosaic
 * tile_directory/: /mosaic_pngs
   
 * number of tiles: 100
+
   The number of tiles to be placed along the shorter dimension of the source image
 
 * pixels per tile: 50
+
   The width/height of a tile_image in the result mosaic. Don’t make this larger than 75 for the tile_images in /mp_mosaic_pngs
 
 * output_image: mosaic.png
