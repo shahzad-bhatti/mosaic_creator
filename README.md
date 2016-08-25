@@ -5,9 +5,9 @@ Creates a mosaic from small images
   
 ```
 make photomosaic 
-./photomosaic background_image.png [tile_directory/] [number of tiles] [pixels per tile] [output_image.png]
+./photomosaic [input_image.png] [tile_directory/] [number of tiles] [pixels per tile] [output_image.png]
 ```
-  Parameters in [square brackets] are optional. Below are the defaults:
+  Parameters in detail:
 
 * tile_directory/: /mosaic_pngs
   
@@ -21,4 +21,3 @@ make photomosaic
 
 * output_image: mosaic.png
 
-.png, .jpg, .gif, and .tiff files also supported
